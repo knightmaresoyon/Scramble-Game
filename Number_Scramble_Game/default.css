@@ -1,0 +1,164 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 345px;
+    height: 345px;
+    margin: auto 300px;
+   
+}
+
+
+img {
+    width: 345px;
+    height: 340px;
+    
+}
+
+
+#gameBoard {
+    width: 345px;
+    height: 345px;
+    margin-right: auto;
+    margin-left: auto;
+    
+   
+}
+
+#previewImg {
+    
+    position:fixed;
+    top:115px;
+    right:300px;
+    
+}
+
+#message {
+    
+    font-size: 36px;
+    color: #808080;
+    text-align: center;
+    width: 344px;
+    height: 80px;
+    margin-right: auto;
+    margin-left: auto;
+
+    
+}
+
+p {
+    padding-top:15px;
+
+}
+
+
+.tile {
+    
+    width: 80px;
+    height: 80px;
+   
+}
+
+.square {
+    background-color: white;
+    border: solid white 2px;
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+.dragged {
+    background-color: yellow;
+}
+
+#tile1 {
+    background-image: url('img/image_part_001.jpg');
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+#tile2 {
+    background-image: url('img/image_part_002.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile3 {
+    background-image: url('img/image_part_003.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile4 {
+    background-image: url('img/image_part_004.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile5 {
+    background-image: url('img/image_part_005.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile6 {
+    background-image: url('img/image_part_006.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile7 {
+    background-image: url('img/image_part_007.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile8 {
+    background-image: url('img/image_part_008.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile9 {
+    background-image: url('img/image_part_009.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile10 {
+    background-image: url('img/image_part_010.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile11 {
+    background-image: url('img/image_part_011.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile12 {
+    background-image: url('img/image_part_012.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile13 {
+    background-image: url('img/image_part_013.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile14 {
+    background-image: url('img/image_part_014.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#tile15 {
+    background-image: url('img/image_part_015.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
